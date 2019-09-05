@@ -66,3 +66,5 @@ Don't put the blame on me
 Don't put your blame on me
 
 First feature commit
+
+Second feature commit
